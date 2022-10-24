@@ -1,0 +1,74 @@
+[
+    {
+        "id": "635709cd7379a19c08b3a8d3",
+        "name": "Introduction to Data Science",
+        "details": "The world of data science is reshaping every business. There is no better time to learn it than now. In this Madecraft course, Python trainer and data scientist Vega Buck shares what data science is and how it differs from other information-focused disciplines. She then dives into the workflow—the life cycle of data science—and introduces the data scientist’s toolset, from programming languages and specialized libraries to productivity tools like Jupyter Notebooks. In the following chapters, Vega focuses on practical techniques such as exploratory data analysis, data cleaning, and data visualization. Finally, learn about sampling, testing, and classification. By the end of the course, you will have the knowledge you need to perform basic data analysis and reporting, and unlock opportunities to accelerate your career in this exciting field.",
+        "image": "../assets/images/introduction.png",
+        "duration": 5,
+        "author_name": "Vega Buck"
+    },
+    {
+        "id": "635709cd4dd8255853e925ac",
+        "name": "Data Science and Analytics Career Paths",
+        "details": "The career opportunities in data science, big data, and data analytics are growing dramatically. If you're interested in changing career paths, determining the right course of study, or deciding if certification is worth your time, check out this course with information science and technology professor Nicholson Horn.Explore the history of data science and its subfields, their roles in the marketplace, and the five main skills that you need to know to succeed: data mining, machine learning, natural language processing, statistics, and visualization. Learn about potential roles, career opportunities, ethics, and professional development. And get tips on the leading industry-recognized certifications that can set you apart in the field. Along the way, Nicholson gathers testimony and shares real-world insights from data science professionals at various stages in their careers.",
+        "image": "http://placehold.it/32x32",
+        "duration": 6,
+        "author_name": "Nicholson Horn"
+    },
+    {
+        "id": "635709cdeb41c0271b392c36",
+        "name": "Data Fluency: Exploring and Describing Data",
+        "details": "Data analysis isn’t just for specialists who need to make sense of massive datasets. Decision-makers in every industry can benefit from a basic understanding of the goals and concepts of applied data analysis. In this course, Kent Emerson focuses on the fundamentals of data fluency, or the ability to work with data to extract insights and determine your next steps. Kent shows how exploring data with graphs and describing data with statistics can help you reach your goals and make better decisions. Instead of focusing on particular tools, he concentrates on general procedures that can help you solve specific problems. Kent covers how to prepare and adapt data, explore it visually, and use statistical methods to describe it. He goes in depth on probability and interference and also touches on data ethics and explainable AI.",
+        "image": "",
+        "duration": 7,
+        "author_name": "Kent Emerson"
+    },
+    {
+        "id": "635709cd06ead57807df8a40",
+        "name": "SQL: Data Reporting and Analysis",
+        "details": "Do you rely on IT to get the data you need? Are you often stuck waiting in line for data, and wish you could just retrieve it yourself? In this course, learn how to get the data you want by writing a bit of SQL code. You won't just be able to pull data out of the database, you'll be able to manipulate it—merging it, grouping it, and relabeling it to get just the report you want. Join Imelda Lloyd as she shows how to write simple SQL queries for data reporting and analysis using a publicly accessible online database. Learn how to filter, group, and sort data, using built-in SQL functions to format or calculate results. Discover how to perform more complex queries, such as joining data together from different database tables. Last but not least, she introduces views, procedures, functions, and variables.",
+        "image": "http://placehold.it/32x32",
+        "duration": 6,
+        "author_name": "Imelda Lloyd"
+    },
+    {
+        "id": "635709cdb90274996b2038ce",
+        "name": "Python Data Analysis",
+        "details": "Data science is transforming the way that government and industry leaders look at both specific problems and the world at large. Curious about how data analysis actually works in practice? In this course, instructor Dejesus Britt shows you how, explaining what it takes to get started with data science using Python.Dejesus demonstrates how to set up your analysis environment and provides a refresher on the basics of working with data structures in Python. Then, he jumps into the big stuff: the power of arrays, indexing, and tables in NumPy and pandas—two popular third-party packages designed specifically for data analysis. He also walks through two sample big-data projects: using NumPy to identify and visualize weather patterns and using pandas to analyze the popularity of baby names over the last century. Challenges issued along the way help you practice what you've learned.",
+        "image": "http://placehold.it/32x32",
+        "duration": 8,
+        "author_name": "Dejesus Britt"
+    },
+    {
+        "id": "635709cd15b88993d9263a49",
+        "name": "GitHub for Data Scientists",
+        "details": "Version control is rapidly becoming an essential skill for data scientists. In this course, learn how to get the most out of GitHub, not just as a code repository, but also as a resource for finding software and connecting with an engaged community. Review foundational GitHub concepts, from how GitHub actually works, to key terminology, to how GitHub facilitates collaboration for data science projects. Learn how to effectively use repositories in GitHub, including how to create and clone a repository and resolve common merge issues. Plus, learn how to create a strong data science portfolio with GitHub, contribute to open-source repositories, and more.",
+        "image": "http://placehold.it/32x32",
+        "duration": 8,
+        "author_name": "Patterson Campos"
+    },
+    {
+        "id": "635709cddd5f9afa15a63f03",
+        "name": "Data Science Methodologies: Making Business Sense",
+        "details": "There is an increasing recognition that data science needs to go beyond small-scale experimentation to a large-scale implementation. In this course, Shari Tate brings software engineering and data mining methodologies to data scientists, then applies these ideas by taking a simple business need through an entire life cycle—hosting a model, consuming it in a web application, and setting up its CI/CD pipeline. Shari begins by explaining the methodologies used in the course and how they are combined. He shows you where to begin in developing architecture and deploying a model, then explains how larger web applications may consume the model as a service. Shari covers how to stage your model and the app, as well as how to plan ahead with an overall roadmap. He concludes with thoughts on how to further applications of data science methodologies.",
+        "image": "http://placehold.it/32x32",
+        "duration": 10,
+        "author_name": "Shari Tate"
+    },
+    {
+        "id": "635709cdc54f86493fe413ba",
+        "name": "Future Proofing Your Data Science Career",
+        "details": "Data science is growing—and changing. Some practitioners are apprehensive about what the future holds. Will businesses lose interest in big data? Are there enough of the jobs of tomorrow for the people employed today? What will we do with our training and expertise? The truth is the opportunities for data scientists are only increasing, providing new ways for you to contribute and to lead innovative transformations. This course provides a deeper understanding of the history of data science as well as specific, tactical tools that will enable you to identify where the next opportunities in this burgeoning field will be. Instructor Gomez Talley, an expert in career transformation, gives you the practical advice and tools you need to help you find your next data science job—and the one after that.",
+        "image": "http://placehold.it/32x32",
+        "duration": 9,
+        "author_name": "Gomez Talley"
+    },
+    {
+        "id": "635709cdc115b67728c75260",
+        "name": "15 Mistakes to Avoid in Data Science",
+        "details": "As a data scientist, your goal is to always be growing your skills. But, if you realize it or not, there are errors you may be making that are keeping you from moving to the next level. In this course, learn the top 15 data science mistakes: misunderstanding business problems, using the wrong tools, starting without a plan, and much more. A leading data scientist share the hard-won lessons he has learned about alienating colleagues with technical jargon, moving too fast, and using sample sizes that are just too small. Find out why you should make your best effort to prevent bias—and avoid overpromising solutions to stakeholders. Plus, learn why writing custom code can lead to a big waste of time and why the most promising data science insights fall flat without a compelling story.",
+        "image": "http://placehold.it/32x32",
+        "duration": 6,
+        "author_name": "White Hurley"
+    }
+]
