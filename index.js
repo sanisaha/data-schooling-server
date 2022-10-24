@@ -1,8 +1,9 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5000;
 const courses = require('./data/dataSchool.json')
-
+app.use(cors());
 app.get('/', (req, res) => {
     res.send('data scholling is running on local server')
 })
